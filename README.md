@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет!! Меня зовут Олеся!
 
-<!--
-**OoShSh/OoShSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Я начинающий QA-тестировщик (junior QA)
 
-Here are some ideas to get you started:
+## 🚀 Обо мне
+- Изучаю postman, git 
+- Цели: стать QA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Изученные технологии
+- **Frontend:** HTML, CSS на неплохом уровне
+- **Backend:** Mysql
+- **Tools:** Git, GitHub
+- **Languages:** английский C 
+
+## 📫 Свяжитесь со мной
+- 📧 Email:sholessyav@mail.ru
+- 💼 Tg: [https://t.me/tak_ptitsi_kri4at]
+
+## 📝 Проекты
+(пока пусто)
